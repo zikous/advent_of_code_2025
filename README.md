@@ -4,11 +4,9 @@ This repository contains my solutions to the [Advent of Code 2025](https://adven
 
 ## Project Structure
 
-- `day_1.py`: Python script for Day 1 solution
-- `day_2.py`: Python script for Day 2 solution
+- `day_i.py`: Python script for Day i solution (for i=1,2,3,4,...)
 - `inputs/`: Folder containing input data files
-  - `1.txt`: Input for Day 1
-  - `2.txt`: Input for Day 2
+  - `i.txt`: Input for Day i (for i=1,2,3,4,...)
 
 ## How to Run
 
@@ -25,10 +23,19 @@ Make sure you have Python installed. The solutions are written in Python 3.
 
 ## Progress
 
-- Day 1: Completed
-- Day 2: Completed
-- Day 3: Completed
-- Day 4: Completed
-- ...
+| Day | Status       |
+|-----|--------------|
+| 1   | ✅ Completed |
+| 2   | ✅ Completed |
+| 3   | ✅ Completed |
+| 4   | ✅ Completed |
+| 5   | ⏳ Not Started |
+| 6   | ⏳ Not Started |
+| 7   | ⏳ Not Started |
+| 8   | ⏳ Not Started |
+| 9   | ⏳ Not Started |
+| 10  | ⏳ Not Started |
+| 11  | ⏳ Not Started |
+| 12  | ⏳ Not Started |
 
 Happy coding!
