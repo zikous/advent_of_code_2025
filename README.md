@@ -30,7 +30,7 @@ Make sure you have Python installed. The solutions are written in Python 3.
 | 3   | ✅ Completed |
 | 4   | ✅ Completed |
 | 5   | ✅ Completed |
-| 6   | ⏳ Not Started |
+| 6   | ✅ Completed |
 | 7   | ⏳ Not Started |
 | 8   | ⏳ Not Started |
 | 9   | ⏳ Not Started |
