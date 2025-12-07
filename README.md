@@ -31,7 +31,7 @@ Make sure you have Python installed. The solutions are written in Python 3.
 | 4   | ✅ Completed |
 | 5   | ✅ Completed |
 | 6   | ✅ Completed |
-| 7   | ⏳ Not Started |
+| 7   | ✅ Completed |
 | 8   | ⏳ Not Started |
 | 9   | ⏳ Not Started |
 | 10  | ⏳ Not Started |
